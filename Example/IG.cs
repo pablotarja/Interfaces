@@ -6,5 +6,6 @@ namespace Example
 {
     class IG
     {
+
     }
 }
